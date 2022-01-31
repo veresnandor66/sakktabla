@@ -1,0 +1,10 @@
+td {
+    background-color: grey;
+}
+th {
+    background-color: black;
+}
+td,th{    width: 2cm;
+    height: 2cm;
+    margin: -2px;
+}
